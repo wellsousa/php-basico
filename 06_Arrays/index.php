@@ -5,6 +5,7 @@ Arrays são variaveis multidimensionais com n indices
 */
 
 $nomes = array("Joao", "Felipe", "Marcelo");
+$nomes[] = "Antonio";
 
 //uma array começa do indice zero
 echo $nomes[0];
