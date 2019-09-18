@@ -2,6 +2,10 @@
 
 $i = 0;
 
+/*
+    O comando break termina a execução de um determinado bloco de codigo
+*/
+
 //loop infiinto
 while(1){
     //condição de saida do laço
